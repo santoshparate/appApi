@@ -21,7 +21,7 @@
     "handlebar": "^1.0.0",
     "helmet": "^3.23.3",
     "jsonschema": "^1.2.6",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mocha": "^8.0.1",
     "moment": "^2.27.0",
