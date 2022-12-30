@@ -23,7 +23,7 @@
     "jsonschema": "^1.2.6",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "moment": "^2.27.0",
     "q": "^1.5.1",
     "request": "^2.88.2",
